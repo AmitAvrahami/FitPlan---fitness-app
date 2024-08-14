@@ -50,5 +50,6 @@ Amit Avrahami, Yarin Yahav, Roi Dudkman
 ## Technologies:
 Android, Kotlin, Firebase, Room, Google Play Services
 
-    ![Project Poster]![FitPlan_Project_Poster](https://github.com/user-attachments/assets/679be5e6-aa6f-4ec3-9daf-92f0a489a109)
+![FitPlan_Project_Poster](https://github.com/user-attachments/assets/f479b16d-6413-4643-a2ec-86ccd2481431)
+
 
